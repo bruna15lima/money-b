@@ -36,7 +36,7 @@ body {
 }
 
 body, input, textarea, button {
-  font-family: 'Poppons', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
 }
 
